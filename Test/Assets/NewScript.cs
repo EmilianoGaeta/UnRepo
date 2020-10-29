@@ -7,7 +7,7 @@ public class NewScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //Cambio algo en master
+        //Algo en newbranch
     }
 
     // Update is called once per frame
